@@ -1,6 +1,6 @@
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/509e5a50-aed7-44a9-87ac-ede00432ad5b)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="70%">
 
 
 </div>
