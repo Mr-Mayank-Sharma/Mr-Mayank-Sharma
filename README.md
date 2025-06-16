@@ -12,8 +12,6 @@
   </a>
 </h1>
 
----
-
 ### 🧑‍💻 About Me
 - 👨‍🎓 **Engineering Student** at Chameli Devi Group of Institution (Computer Engineering Department).
 - 💻 **VFX Artist** and **Software Developer** from India.
@@ -42,21 +40,21 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankaharma2003&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mayankaharma2003&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Mayank-Sharma&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mr-Mayank-Sharma&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankaharma2003&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Mayank-Sharma&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
 ### 📈 My Contributions
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayankaharma2003&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Mayank-Sharma&theme=github_dark" alt="Profile Details" />
 </p>
 
 ---
